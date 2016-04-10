@@ -1,26 +1,22 @@
-# App
+# Lirith_BaseApp
 
-TODO: Write a description here
+This is a plain webapp based on the Lirith core.
 
 ## Installation
 
 
-TODO: Write installation instructions here
+1. Clone this repo
+2. Install dependencies by running `$ crystal deps`
+3. Run this app by calling crystal on the App.cr file (`$ crystal src/App.cr`)
 
 
 ## Usage
 
-
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+It is a simple MVC setup. You should be able to figure it out. If you need any assistance just send me a message.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/App/fork )
+1. Fork it ( https://github.com/Rinkana/Lirith_BaseApp/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -28,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) [your-name-here] - creator, maintainer
+- [Rinkana](https://github.com/Rinkana) Rinkana - creator, maintainer
