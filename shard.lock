@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  Lirith:
+    github: Rinkana/Lirith
+    commit: 9a2a9def88e99fdec466cb1c51d1e920ee9df456
+
