@@ -7,6 +7,6 @@ authors:
 license: MIT
 
 dependencies:
-  Lirith:
+  lirith:
     github: Rinkana/Lirith
     branch: crystal
